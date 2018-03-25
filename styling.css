@@ -1,0 +1,43 @@
+body { 
+	padding: 10px}
+h1, h2, h3 a {
+	font-weight: normal;
+	color:#0088dd;
+	margin: 0px;}
+h1 {font-family: Georgia, Times, serif;
+	font-size: 250%;
+	text-shadow: 2px 2px 3px #666666;
+	padding-bottom: 0px}
+h2 {
+	font-family: "Gill Sans", Arial, sans-serif;
+	font-size: 90%;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;}
+h3 {
+	text-decoration: underline;
+	font-size: 150%;}
+img.large {width: 500px; height: 625px}
+img.medium {width: 250px; height: 333px}
+img.small {width: 100px; height: 125px}
+img.square {width: 250px; height: 250px}
+img.align-left {float: left;margin-right: 10px}
+img.align-right {float: right;margin-left: 10px}
+p {
+	font-family: Arial, Verdana, sans-serif;
+	line-height: 1.4em
+	color: #665544;}
+a {text-decoration: none;}
+a:hover {text-decoration: underline;}
+.credits {font-style: italic;text-align: right;}
+li {list-style-type: circle;list-style-position: inside;}
+ul.nav {
+	width: 600px;
+	padding: 15px;
+	margin: 15px auto 0px auto;
+	border-top: 2px solid #000;
+	border-bottom: 1px solid #000;
+	text-align: center;}
+.days {
+	display: inline;
+	margin: 0px 3px;}
+div.with_img {height: 333px}
